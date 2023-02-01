@@ -109,3 +109,13 @@ hr {
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+
+.footer-link:hover {
+  color: #3cb0fd;
+
+}
+
+.HopeCare:hover{
+  color: #3cb0fd;
+
+}
